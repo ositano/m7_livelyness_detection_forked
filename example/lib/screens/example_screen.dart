@@ -125,7 +125,7 @@ class _M7ExpampleScreenState extends State<M7ExpampleScreen> {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: const Text(
-            "Need to have atleast 1 step of verification",
+            "Need to have at least 1 step of verification",
             style: TextStyle(
               color: Colors.white,
               fontSize: 20,
